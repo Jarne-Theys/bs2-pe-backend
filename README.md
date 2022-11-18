@@ -22,4 +22,3 @@ Dit is de backend-service van onze webshop. Deze service voorziet een API voor o
 ## Acceptance criteria
 * Zorg dat je een werkende container automatisch kan builden met Github Actions
 
-test for webhook
